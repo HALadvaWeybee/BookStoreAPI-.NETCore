@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "skycZMLojBJjlEifCKhf/XkWw7k4VO/MJCim88GcJmpbSATT9PhPmAW/IrO0yVUHqgJUzcPo0GrypWWx0N5MbQ==",
+  "dgSpecHash": "THM7RzrWlMt4rpY1P/PTdGXkdYomp6KsP2KCmckWvlpJPDFEP/yCuAYrI5d9XfpbJPROrdDfDCmzemKISqkpnA==",
   "success": true,
   "projectFilePath": "C:\\ASP.NETCore-API\\.NETCoreAPI-New\\BookStoreAPI\\BookStoreAPI.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\DELL\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.11\\microsoft.aspnetcore.authentication.jwtbearer.6.0.11.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.11\\microsoft.aspnetcore.cryptography.internal.6.0.11.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.11\\microsoft.aspnetcore.cryptography.keyderivation.6.0.11.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\6.0.11\\microsoft.aspnetcore.identity.entityframeworkcore.6.0.11.nupkg.sha512",

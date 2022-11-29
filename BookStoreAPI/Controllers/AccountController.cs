@@ -12,7 +12,7 @@ namespace BookStoreAPI.Controllers
         private readonly IAccountRepository _accountRepository;
         public AccountController(IAccountRepository accountRepository)
         {
-            _accountRepository= accountRepository;
+            _accountRepository = accountRepository;
         }
 
         [HttpPost("signup")]
@@ -24,6 +24,17 @@ namespace BookStoreAPI.Controllers
                 return Ok(result.Succeeded);
             }
             return Unauthorized();
+        }
+        
+        [HttpPost("login")]
+        public async Task<IActionResult> Login([FromBody] SignInModel model)
+        {
+            var result = await _accountRepository.LoginAsync(model);
+            if(string.IsNullOrEmpty(result))
+            {
+                return Unauthorized();
+            }
+             return Ok(result);
         }
     }
 }

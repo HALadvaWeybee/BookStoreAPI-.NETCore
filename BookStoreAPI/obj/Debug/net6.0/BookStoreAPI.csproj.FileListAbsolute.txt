@@ -183,3 +183,4 @@ C:\ASP.NETCore-API\.NETCoreAPI-New\BookStoreAPI\bin\Debug\net6.0\Microsoft.AspNe
 C:\ASP.NETCore-API\.NETCoreAPI-New\BookStoreAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\ASP.NETCore-API\.NETCoreAPI-New\BookStoreAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
 C:\ASP.NETCore-API\.NETCoreAPI-New\BookStoreAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\ASP.NETCore-API\.NETCoreAPI-New\BookStoreAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

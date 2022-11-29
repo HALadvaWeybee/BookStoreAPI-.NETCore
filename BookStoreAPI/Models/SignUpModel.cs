@@ -13,7 +13,7 @@ namespace BookStoreAPI.Models
         public string Email { get; set; }
 
         [Required]
-        [Compare("ComfirmPassword")]
+        [Compare("ConfirmPassword")]
         public string Password { get; set; }
 
         [Required]
